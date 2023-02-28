@@ -1,0 +1,16 @@
+server:
+  PORT: ''
+  origin: ''
+
+db:
+  type: 'postgres'
+  RDS_HOSTNAME: ''
+  RDS_PORT: ''
+  RDS_USERNAME: ''
+  RDS_PASSWORD: ''
+  RDS_DB_NAME: ''
+  synchronize: ''
+
+jwt:
+  expiresIn: ''
+  secret: ''
